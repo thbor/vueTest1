@@ -1,0 +1,8 @@
+{
+    "picture":[
+    {"title":"风景1","description":"第一处风景","img":"assets/1.png"},
+    {"title":"风景2","description":"第二处风景","img":"assets/2.png"},
+    {"title":"风景3","description":"第三处风景","img":"assets/3.png"}
+
+    ]
+}
